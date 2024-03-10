@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rédiger un article</string>
+    <string name="texto_menor">
+        "Jetpack Compose est une boîte à outils moderne permettant de créer une interface utilisateur Android native."
+                    "Compose simplifie et accélère le développement de l'interface utilisateur sur Android avec moins de code",
+                    "Des outils puissants et des API Kotlin intuitives."
+    </string>
+    <string name="titulo">
+        "TUTORIEL JetPack Compose"
+    </string>
+    <string name="texto_maior">"Dans ce didacticiel, vous créez un composant d'interface utilisateur simple avec des fonctions déclaratives."
+                    "Vous appelez les fonctions Compose pour lui indiquer les éléments que vous souhaitez ainsi que le compilateur Compose"
+                    " fait le reste. Compose est construit autour des fonctions Composable. "
+                    "Ces fonctions vous permettent de définir l'interface utilisateur de votre application"
+                    "par programmation, car ils vous permettent de décrire à quoi cela devrait ressembler et de fournir des dépendances de données",
+                    "au lieu de se concentrer sur le processus de création de l'interface utilisateur, comme le démarrage"
+                    " un élément et attachez-le à un parent. Pour créer une fonction Composable,"
+                    " ajoutez l'annotation @Composable au nom de la fonction."
+    </string>
+</resources>
